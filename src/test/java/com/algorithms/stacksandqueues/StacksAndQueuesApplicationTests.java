@@ -10,4 +10,9 @@ class StacksAndQueuesApplicationTests {
 	void contextLoads() {
 	}
 
+	@Test
+	public void queue_IsEmpty(){
+		
+	}
+
 }
